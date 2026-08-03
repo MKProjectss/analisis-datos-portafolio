@@ -40,15 +40,14 @@ Python (Pandas, Matplotlib), Power BI.
 ### Análisis de Ventas y Comportamiento de Clientes – Tienda Retail
 
 **Descripción:**  
-Proyecto enfocado en el análisis de transacciones de una tienda ficticia, con el objetivo de evaluar el desempeño comercial y comprender el comportamiento de los clientes mediante el uso de KPIs y segmentación basada en variables demográficas (edad y género) y categorías de producto.
+Proyecto de análisis de datos desarrollado sobre un conjunto de transacciones de una tienda retail ficticia, con el objetivo de evaluar el desempeño comercial, identificar patrones de compra y generar información para apoyar la toma de decisiones mediante visualizaciones interactivas.
 
 **Actividades realizadas:**
-- Definición de indicadores clave de negocio (Revenue, Ticket Promedio, ventas por categoría)
-- Limpieza y transformación de datos transaccionales
-- Análisis exploratorio enfocado en patrones de compra
-- Segmentación de clientes por edad y género
-- Evaluación del desempeño por categoría de producto
-- Desarrollo de dashboard interactivo para monitoreo de KPIs
+- Limpieza y transformación de datos transaccionales.
+- Definición y cálculo de KPIs de negocio (Revenue, Ticket Promedio, Unidades por Transacción y Número de Transacciones).
+- Análisis exploratorio para identificar tendencias de ventas y comportamiento de compra.
+- Segmentación de clientes por edad, género y categoría de producto.
+- Desarrollo de un dashboard interactivo en Power BI para el monitoreo de indicadores clave.
 
 **Herramientas:**  
 Excel, Power BI
